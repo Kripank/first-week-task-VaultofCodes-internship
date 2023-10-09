@@ -1,4 +1,4 @@
-# first-week-task-VaultofCodes-internship
+#first-week-task-VaultofCodes-internship
 I have successfully completed the first week of my java programming internship with ValtOfCodes.
 During this week, I learned how to debug java codes that involve object-oriented programming, arrays, and exception handling. 
 I used various tools and techniques such as 
